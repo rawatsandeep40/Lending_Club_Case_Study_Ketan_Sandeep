@@ -39,12 +39,12 @@
 
 
 ## Acknowledgements
-- This project was inspired by the learnings which we recived from the EDA module of UpGrad.
+- This project was inspired by the learnings which we received from the EDA module of UpGrad.
 - The sessions conducted by industry experts and IITB faculties were also very helpful in solving this assignment.
 
 
 
 ## Contact
-Created by [@ketand600] and [@rawatsandeep40] - feel free to contact us!
+Created by @ketand600 and @rawatsandeep40 - feel free to contact us!
 
 
